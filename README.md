@@ -1,6 +1,7 @@
 ## LoLAlg - Compatibility Score
----
 
+### Discover if you've been settling in your relationships! Compatibility Score uses Machine Learning algorithms to rank your love interests by the attributes that matter most to your personal preferences. Find out if the person in your mind is a real match!
+ 
                        $"                            '#$
                       P                                  "*$
                     $"                                      '#
@@ -22,11 +23,8 @@
      $                    $MM$$$$8W-                   4
     $                    '$MMM$$$$$      ..             $
 
-
-### Discover if you've been settling in your relationships! Compatibility Score uses Machine Learning algorithms to rank your love interests by the attributes that matter most to your personal preferences. Find out if the person in your mind is a real match! 
----
 ### Installation
----
+
 Install Python3:
  `$ pip install Python3`<br/>
 
@@ -41,7 +39,6 @@ Set the local environment to use the Python3 interpreter:
 Install Dependencies:
  `pip install easygui`<br/>
  `pip install matplotlib` 
----
 
 ### Usage
 Run:
