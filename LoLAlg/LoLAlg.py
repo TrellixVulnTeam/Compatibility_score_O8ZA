@@ -77,12 +77,14 @@ elif response == 'Yes':
 
 
 else:   sys.exit(0);
-intro = "Alright, now that you have determined what you look for in a partner, It's time to score your love interest"
+intro = "Alright, now that you have determined what you look for in a partner, It's time to score ALL your love interests."
 if not eg.msgbox(intro,title):
     sys.exit(0)
 final_score_table = {}
-intro = "What is the name of your love interest?"
+intro = "What is the name of your love interests(comma-separated)...?  Name all of them too nigga... dont hide your feelings @__@;"
 name = eg.enterbox(intro, title)
+print(name)
+
 max_score_table = {}
 missing_points = 0
 total_points = 0 # to calculate the % missing info
