@@ -25,18 +25,18 @@
 
 ### Installation
 
-Install Python3:
+Install Python3:<br/>
  `$ pip install Python3`<br/>
 
-Clone the Repository:
+Clone the Repository:<br/>
  `git clone https://github.com/nick781/Compatibility_score.git`<br/>
  `cd Compatability_score\LolAlg\`
 
-Set the local environment to use the Python3 interpreter:
+Set the local environment to use the Python3 interpreter:<br/>
  `alias python=python3`<br/>
  `python --version`
 
-Install Dependencies:
+Install Dependencies:<br/>
  `pip install easygui`<br/>
  `pip install matplotlib` 
 
