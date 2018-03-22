@@ -25,21 +25,21 @@
 
 ### Installation
 
-Install Python3:<br/>
+**_Install Python3:_**<br/>
  `$ pip install Python3`<br/>
 
-Clone the Repository:<br/>
+**_Clone the Repository:_**<br/>
  `git clone https://github.com/nick781/Compatibility_score.git`<br/>
  `cd Compatability_score\LolAlg\`
 
-Set the local environment to use the Python3 interpreter:<br/>
+**_Set the local environment to use the Python3 interpreter:_**<br/>
  `alias python=python3`<br/>
  `python --version`
 
-Install Dependencies:<br/>
+**_Install Dependencies:_**<br/>
  `pip install easygui`<br/>
  `pip install matplotlib` 
 
 ### Usage
-Run:
+**_Run:_**
 `Python LoLAlg.py`
