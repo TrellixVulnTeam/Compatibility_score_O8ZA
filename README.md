@@ -1,24 +1,29 @@
-## LoLAlg: Compatibility Score
---- 
-Description: Discover if you've been settling in your relationships! Compatibility Score uses Machine Learning algorithms to rank your love interests by the attributes that matter most to your personal preferences. Find out if the person in your mind is a real match! 
+## [LoLAlg - Compatibility Score]
 ---
 
+Discover if you've been settling in your relationships! Compatibility Score uses Machine Learning algorithms to rank your love interests by the attributes that matter most to your personal preferences. Find out if the person in your mind is a real match! 
+---
 ### Installation
 ---
 Install Python3:
-*`$ pip install Python3`
+`$ pip install Python3`
 
+---
 Clone the Repository:
-*`$ git clone https://github.com/nick781/Compatibility_score.git`
-*`$ cd Compatability_score\LolAlg\`
+`$ git clone https://github.com/nick781/Compatibility_score.git`
+`$ cd Compatability_score\LolAlg\`
+---
 
+---
 Set the local environment to use the Python3 interpreter:
-*`$ alias python=python3`
-*`$ python --version`
+`$ alias python=python3`
+`$ python --version`
+---
 
+---
 Install Dependencies:
-*`pip install easygui`
-*`pip install matplotlib` 
+`pip install easygui`
+`pip install matplotlib` 
 ---
 
 ### Usage
@@ -26,7 +31,6 @@ Install Dependencies:
 Run:
 *`Python LoLAlg.py`
 ---
-                        $"                           "$
 
                        $"                            '#$
                       P                                  "*$
