@@ -83,11 +83,10 @@ if not eg.msgbox(intro,title):
 final_score_table = {}
 intro = "What is the name of your love interests(comma-separated)...?  Name all of them too nigga... dont hide your feelings @__@;"
 name = eg.enterbox(intro, title)
-print(name)
 
 max_score_table = {}
 missing_points = 0
-total_points = 0 # to calculate the % missing info
+total_points = 0 # to calculate the percentage(%) of missing information 
 for item in attribute_table:
     total_points += attribute_table.get(item)
     intro = name + "\'s Score: " + '\'' + item + '\''
