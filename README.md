@@ -41,5 +41,5 @@
  `pip install matplotlib` 
 
 ### Usage
-**_Run:_**
+**_Run:_**<br/>
 `Python LoLAlg.py`
