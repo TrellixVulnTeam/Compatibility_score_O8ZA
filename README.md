@@ -28,21 +28,21 @@
 ### Installation
 ---
 Install Python3:
-..* `$ pip install Python3`
+ `$ pip install Python3`<br/>
 
 Clone the Repository:
-..* `git clone https://github.com/nick781/Compatibility_score.git`
-..* `cd Compatability_score\LolAlg\`
+ `git clone https://github.com/nick781/Compatibility_score.git`<br/>
+ `cd Compatability_score\LolAlg\`
 
 Set the local environment to use the Python3 interpreter:
-..* `alias python=python3`
-..* `python --version`
+ `alias python=python3`<br/>
+ `python --version`
 
 Install Dependencies:
-..* `pip install easygui`
-..* `pip install matplotlib` 
+ `pip install easygui`<br/>
+ `pip install matplotlib` 
 ---
 
 ### Usage
 Run:
-..* `Python LoLAlg.py`
+`Python LoLAlg.py`
