@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import sys
 #attribute table
     #a dictionary containing the attributes one looks for in a partner, as well as their weights
-    # example: 'physical appearance' : 200
+    # example: 'emotional support' : 200
 #preference_code
     #a users attribute table from a previous round
 
